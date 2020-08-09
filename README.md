@@ -1,2 +1,2 @@
 # Books-Scraper
-A scraper that scraps from the site books.toscrape.com
+A scraper that scrapes from the site books.toscrape.com
